@@ -1,0 +1,6 @@
+﻿payments_out.csv
+idempotency.json
+used_nonces.json
+bad_qr/
+.venv/
+__pycache__/
